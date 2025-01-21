@@ -1,0 +1,452 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"data-format"
+			],
+			[
+				"curre",
+				"current_path_array"
+			],
+			[
+				"cure",
+				"current_path_array"
+			],
+			[
+				"curr",
+				"current_path"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"ini",
+				"init_page"
+			],
+			[
+				"column",
+				"columnDefs"
+			],
+			[
+				"colum",
+				"columnDefs"
+			],
+			[
+				"colun",
+				"columnDefs"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"me",
+				"mesto_id"
+			],
+			[
+				"cb_za",
+				"cb_zapisnicar_id"
+			],
+			[
+				"zaposle",
+				"zaposleni_razduzio"
+			],
+			[
+				"zaposl",
+				"zaposleni_razduzio"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"vrst",
+				"vrsta_goriva"
+			],
+			[
+				"role",
+				"role_name"
+			],
+			[
+				"wp",
+				"wpuser"
+			],
+			[
+				"ime",
+				"ime_prezime"
+			],
+			[
+				"remo",
+				"remove_menu_page"
+			],
+			[
+				"save",
+				"saved_wp_user"
+			],
+			[
+				"su",
+				"submitted_roles"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"pos",
+				"post_wpuid"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Project Manager: Add New Project"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/nxlog"
+	],
+	"file_history":
+	[
+		"/var/www/novisad/includes/actions.inc",
+		"/var/www/sud/wp-content/plugins/crud-public/assets/js/script.js",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_javne_rasprave/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zahtev_javni_znacaj/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaduzenje_uredjaja/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera_i_papira/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_sudska_praksa/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_potrosnja_mobilnog/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_sednice/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_rad_zapisnicara/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_pozurnica_sudiji/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_voznog_parka/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_izradjene_odluke/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_izmene_log/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_izjasnjenje/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_usavrsavanje/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_sednica/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_saradnja/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_sastanaka/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_presuda/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_presuda/class-route.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_kolegijuma/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/class-base-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata/views/list.php",
+		"/var/www/sud/wp-content/plugins/crud-public/crud-public.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata_mesec/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata_mesec/views/list.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_plana_plata/class-form-handler.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_javne_rasprave/views/list.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_javne_rasprave/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_javne_rasprave/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/templates/select.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaduzenje_uredjaja/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaduzenje_uredjaja/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_javne_rasprave/class-form-handler.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_javne_rasprave/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-public/assets/js/dataTables.buttons.min.js",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudija/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/crud-admin.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zapisnicar/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zapisnicar/class-list-table.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zapisnicar/class-form-handler.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zapisnicar/class-admin-menu.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zapisnicar/views/list.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudnice/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudija/views/list.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudnice/views/list.php",
+		"/var/www/sud/Predao toner: Ekonom (ekonom)",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera/views/print.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_it_uredjaja/class-route.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaduzenje_uredjaja/class-route.php",
+		"/var/www/sud/wp-content/plugins/court-calendar/assets/css/style.css",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_valuta/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_valuta/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/class-admin-menu.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/views/list.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/class-list-table.php.bak.bak",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/class-list-table.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zaposlen/class-form-handler.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudija/class-list-table.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudija/class-form-handler.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudija/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zapisnicar/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_zapisnicar/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudija/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaduzenje_uredjaja/views/out.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaduzenje_uredjaja/views/in.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_presuda/views/edit.php.BAK",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_potrosnja_mobilnog/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaposleni/class-route.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_potrosnja_mobilnog/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera_i_papira/views/new.php",
+		"/var/www/sud/wp-content/themes/b4st/gulpfile.js",
+		"/var/www/sud/wp-content/themes/b4st/theme/js/b4st.js",
+		"/var/www/sud/wp-content/themes/b4st/package.json",
+		"/var/www/sud/wp-content/plugins/capability-manager-enhanced/includes/roles/class/class-pp-roles-loader.php",
+		"/var/www/theroyaland/web/wp-content/themes/b4st/gulpfile.js",
+		"/var/www/csopiceramia/wp-content/themes/b4st/gulpfile.js",
+		"/var/www/sud/wp-content/themes/b4st/theme/scss/b4st/tables.scss",
+		"/var/www/sud/wp-content/themes/b4st/theme/scss/b4st.scss",
+		"/var/www/sud/wp-content/plugins/court-calendar/court-calendar-widget.php",
+		"/var/www/sud/wp-content/plugins/court-calendar/assets/js/script.js",
+		"/var/www/sud/wp-content/plugins/court-calendar/includes/widget.php",
+		"/var/www/sud/wp-config.php",
+		"/var/www/sud/templates/block/block--slidervideohome4.html.twig",
+		"/var/www/sud/wp-content/debug.log",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_izradjene_odluke/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_izradjene_odluke/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_predmeti/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_presuda/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_predmeti/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_predmeti/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_evidencija_presuda/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaduzenje_uredjaja/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera/views/list.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_sudija/class-admin-menu.php",
+		"/var/www/sud/wp-content/plugins/crud-admin/includes/cb_vrsta_goriva/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_kontakt_podaci/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_kontakt_podaci/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_kontakt_podaci/functions.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_kontakt_podaci/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_kontakt_podaci/class-form-handler.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_rad_zapisnicara/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaposleni/views/new.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaposleni/views/edit.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_rad_zapisnicara/views/new.php",
+		"/var/www/csopiceramia/wp-content/debug.log",
+		"/var/www/csopiceramia/wp-config.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaposleni/functions.php",
+		"/var/www/sud/wp-content/plugins/allow-cyrillic-usernames/allow-cyrillic-usernames.php",
+		"/var/www/sud/wp-admin/user-new.php",
+		"/var/www/sud/wp-includes/functions.php",
+		"/home/stevan/Downloads/LACA Member Update November 2024.csv",
+		"/var/www/sud/wp-content/plugins/crud-public/assets/js/i18n/ps.js",
+		"/home/stevan/Downloads/LACA Member Update October 2024.csv",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_zaposleni/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_podnete_prituzbe/class-table.php",
+		"/var/www/sud/wp-content/plugins/crud-public/includes/tbl_trosenje_tonera_i_papira/functions.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nxlog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"wp-admin/css/revisions.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/development/development.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
