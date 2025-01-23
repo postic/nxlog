@@ -68,7 +68,7 @@ $user = getUser();
             <h1 class="alert alert-success mt-4">Welcome, <?= htmlspecialchars($user->name); ?></h1>
         <?php else : ?>
             <div class="alert alert-danger">Authentication Required</div>
-            <a href="signin.php" class="btn btn-primary btn-lg">Please Signin</a>
+            <a href="/index.php" class="btn btn-primary btn-lg">Please Signin</a>
         <?php endif; ?>
     </div>
 </body>

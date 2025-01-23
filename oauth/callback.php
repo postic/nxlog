@@ -62,7 +62,7 @@ if(!empty($tokenData->error)) {
 }
 
 if(!empty($tokenData->access_token)) {
-    setcookie('nxlog_access_token', $tokenData->access_token, time() + 2592000, "/", "", false, true);
+    setcookie('nxlog_access_token', $tokenData->access_token, time() + 600000, "/", "", false, true);
     // the last argument - true - sets it as an httponly cookie
     header('Location: protected.php');
     exit();
